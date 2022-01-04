@@ -1,0 +1,8 @@
+{"name": "Semantic directions",
+    "ranges" : [[1,5],
+    [6,13],
+    [14,19],
+    [20,20],
+    [21,21]],
+"description": ["Left","Mix","Right","Straight","None"]
+}
